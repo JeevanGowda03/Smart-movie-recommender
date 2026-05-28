@@ -55,5 +55,3 @@ Perfect for streaming platforms, film discovery tools, and personalized content 
 without dependency on user behavioral data.
 
 ---
-
-**Built as part of TCS iON Graduate Engineer Trainee Program**
