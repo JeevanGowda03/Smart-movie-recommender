@@ -36,7 +36,7 @@ Scikit-learn, and Streamlit.
 
 4. Serve recommendations via interactive Streamlit interface
 
-## 📦 Installation
+## 📦 Installation process
 
 ```bash
 
